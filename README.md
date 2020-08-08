@@ -2,7 +2,7 @@
 
 ## Resources
 
-1. [Sentry](https://sentry.io/organizations/dennis-okeeffe/issues/)
+1. [Sentry](https://sentry.io/)
 2. [Sentry - Capturing Events](https://docs.sentry.io/error-reporting/capturing/)
 3. [Sentry - Breadcrumbs](https://docs.sentry.io/enriching-error-data/breadcrumbs/)
 4. [Super and Extends in JavaScript - Medium](https://medium.com/beginners-guide-to-mobile-web-development/super-and-extends-in-javascript-es6-understanding-the-tough-parts-6120372d3420)
